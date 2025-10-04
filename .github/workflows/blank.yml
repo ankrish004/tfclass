@@ -3,7 +3,7 @@ on:
     branches:
       - main
       - staging
-      - dev
+      - test
 
 jobs:
   terraform:
